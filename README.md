@@ -3,7 +3,7 @@
 - 🌱  I’m currently learning SQL, Power BI and Python to Enhance my skills in Data Analysis
 - 💞️  I’m looking to collaborate on ...
 - 🐳  I have experience in Data Cleaning and Wrangling, Data Visualization, Data Analysis, Dashboard Design and Development
-- 📫  How to reach me [LinkedIn : veeradinesh](www.linkedin.com/in/veeradinesh)
+- 📫  How to reach me [LinkedIn : veeradinesh](https://www.linkedin.com/in/veeradinesh/)
 
 💡Skills💡:
 
