@@ -31,19 +31,27 @@
 
 🧑‍🔬 Projects On Power BI
 
- - 👩‍💻 F1 Data Challenge [Click](https://www.novypro.com/project/f1-data-challenge)
+ - 👩‍💻 Supply Chain Issue in FMCG [Click](https://www.novypro.com/project/fmcg-codebasics-supplychain)
 
+ - 👩‍💻 Hospitality Challenge [Click](https://www.novypro.com/project/codebasics-hospitality-challenge-)
+ 
+ - 👩‍💻 Aliens in America [Click](https://www.novypro.com/project/dataanalytics-data-project-powerbi)
+ 
+ - 👩‍💻 Maven Airline Challenge [Click](https://www.novypro.com/project/maven--airline-challenge)
+ 
+ - 👩‍💻 HR Dashboard [Click](https://www.novypro.com/project/hr-dashboard-insights-for-various-categories)
+ 
  - 👩‍💻 Sales Analysis    [Click](https://www.novypro.com/project/sales-analysis-2)
 
- - 👩‍💻 Maven Airline Challenge [Click](https://www.novypro.com/project/maven--airline-challenge)
+ - 👩‍💻 F1 Data Challenge [Click](https://www.novypro.com/project/f1-data-challenge)
 
- - 👩‍💻 Aliens in America [Click](https://www.novypro.com/project/dataanalytics-data-project-powerbi)
 
- - 👩‍💻Hospitality Challenge [Click](https://www.novypro.com/project/codebasics-hospitality-challenge-)
+ 
 
- - 👩‍💻 HR Dashboard [Click](https://www.novypro.com/project/hr-dashboard-insights-for-various-categories)
 
- - 👩‍💻 Supply Chain Issue in FMCG [Click](https://www.novypro.com/project/fmcg-codebasics-supplychain)
+ 
+
+
 
 
 <!---
