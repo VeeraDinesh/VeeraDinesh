@@ -1,6 +1,6 @@
 - 👋  Hi, I’m @VeeraDinesh
 - 👀  I’m interested in Data Analytics and love to Learn New Skills
-- 🌱  I’m currently learning SQL, Power BI and Python to Enhance my skills in Data Analysis
+- 🌱  I’m currently learning SQL, Power BI, Google Sheets and Python to Enhance my skills in Data Analysis
 - 💞️  I’m looking to collaborate on ...
 - 🐳  I have experience in Data Cleaning and Wrangling, Data Visualization, Data Analysis, Dashboard Design and Development
 - 📫  How to reach me [LinkedIn : veeradinesh](https://www.linkedin.com/in/veeradinesh/)
