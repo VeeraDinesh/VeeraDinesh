@@ -15,11 +15,11 @@
 
 📚 Courses and Certificates
 
- - :zap:  SQL Masterclass: SQL for Data Analytics - Udemy
- - :zap:  Data Analysis with Python - IBM
- - :zap:  Google Data Analytics Professional Certificate - Coursera
- - :zap:  Java Programming: Solving Problems with Software
- - :zap:  Programming Foundations with JavaScript, HTML and CSS (with Honors)
+ - :zap:  SQL Masterclass: SQL for Data Analytics - Udemy [Click](https://www.udemy.com/certificate/UC-56436481-e7bd-4c20-97e4-02e991e8e619/)
+ - :zap:  Data Analysis with Python - IBM [Click](https://courses.cognitiveclass.ai/certificates/b789a881efad461681a57d81641415db)
+ - :zap:  Google Data Analytics Professional Certificate - Coursera [Click](https://www.credly.com/badges/f5f2c5b3-619c-4e79-bf9f-3a0fb244fe51?source=linked_in_profile)
+ - :zap:  Java Programming: Solving Problems with Software [Click](https://www.coursera.org/account/accomplishments/verify/SGSPCNELBPEG?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course)
+ - :zap:  Programming Foundations with JavaScript, HTML and CSS (with Honors) [Click](https://www.coursera.org/account/accomplishments/verify/XQXEB7K2V47E?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course)
 
 🧑‍🔬 Projects On SQL
 
